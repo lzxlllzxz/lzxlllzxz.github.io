@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lzxlllzxz.github.io</id>
+    <title>lzxlllzxz-个人博客</title>
+    <updated>2024-05-22T05:37:56.319Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lzxlllzxz.github.io"/>
+    <link rel="self" href="https://lzxlllzxz.github.io/atom.xml"/>
+    <subtitle>人，总要出去走走的。</subtitle>
+    <logo>https://lzxlllzxz.github.io/images/avatar.png</logo>
+    <icon>https://lzxlllzxz.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, lzxlllzxz-个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[我玩的游戏和网名]]></title>
+        <id>https://lzxlllzxz.github.io/post/name/</id>
+        <link href="https://lzxlllzxz.github.io/post/name/">
+        </link>
+        <updated>2024-05-22T03:44:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://lzxlllzxz.github.io/post/test/</id>
+        <link href="https://lzxlllzxz.github.io/post/test/">
+        </link>
+        <updated>2024-05-22T03:13:22.000Z</updated>
+    </entry>
+</feed>
